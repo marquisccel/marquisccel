@@ -108,17 +108,17 @@ IT student at Universitas Brawijaya with hands-on experience in Linux server adm
 
 | Project | Description | Stack |
 |---|---|---|
-| [banking-peak-load-prototype](https://github.com/egayurcel990/banking-peak-load-prototype) | Defense-in-depth banking system handling 1M tx/hour — 0% error rate, p95 latency <6ms at 300 req/s | Go · PostgreSQL · PgBouncer · Redis · RabbitMQ · Docker · Kubernetes · Terraform · Ansible · Prometheus · Grafana · k6 |
-| [aws-multi-service-deployment](https://github.com/egayurcel990/aws-multi-service-deployment) | Multi-service AWS infrastructure with IaC — VPC, subnets, ELB, security groups | Terraform · EC2 · VPC · ELB · S3 · Lambda |
-| [ascon-secure-gateway](https://github.com/egayurcel990/ascon-secure-gateway) | Docker-based web server with ASCON-128 lightweight encryption | Python · Docker · Nginx |
-| [projectadsis](https://github.com/egayurcel990/projectadsis) | Two isolated Laravel services orchestrated via Docker Compose on Linux | Docker Compose · Laravel · MySQL · Nginx |
+| [banking-peak-load-prototype](https://github.com/marquisccel/banking-peak-load-prototype) | Defense-in-depth banking system handling 1M tx/hour — 0% error rate, p95 latency <6ms at 300 req/s | Go · PostgreSQL · PgBouncer · Redis · RabbitMQ · Docker · Kubernetes · Terraform · Ansible · Prometheus · Grafana · k6 |
+| [aws-multi-service-deployment](https://github.com/marquisccel/aws-multi-service-deployment) | Multi-service AWS infrastructure with IaC — VPC, subnets, ELB, security groups | Terraform · EC2 · VPC · ELB · S3 · Lambda |
+| [ascon-secure-gateway](https://github.com/marquisccel/ascon-secure-gateway) | Docker-based web server with ASCON-128 lightweight encryption | Python · Docker · Nginx |
+| [projectadsis](https://github.com/marquisccel/projectadsis) | Two isolated Laravel services orchestrated via Docker Compose on Linux | Docker Compose · Laravel · MySQL · Nginx |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=egayurcel990&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=marquisccel&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
