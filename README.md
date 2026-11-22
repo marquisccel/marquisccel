@@ -57,7 +57,7 @@ Mahasiswa IT di **Universitas Brawijaya** yang lagi serius menata arah: **jadi S
 
 **Backend & Web**
 
-<img src="https://skillicons.dev/icons?i=go,nodejs,php,laravel,ts,js,python,java,kotlin&perline=9" alt="languages" />
+<img src="https://skillicons.dev/icons?i=go,nodejs,php,laravel,ts,js,python,java,react,next&perline=10" alt="languages" />
 
 **Database & Messaging**
 
@@ -65,7 +65,7 @@ Mahasiswa IT di **Universitas Brawijaya** yang lagi serius menata arah: **jadi S
 
 **Cloud, DevOps & Monitoring**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,githubactions,nginx,linux,prometheus,grafana&perline=10" alt="devops" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,linux,prometheus,grafana&perline=8" alt="devops" />
 
 </div>
 
