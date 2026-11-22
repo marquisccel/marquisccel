@@ -1,138 +1,138 @@
-<h1 align="center">Hi, I'm Ega Yurcel Satriaji 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Information Technology · Universitas Brawijaya · Malang, Indonesia</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:F59E0B&height=200&section=header&text=Ega%20Yurcel%20Satriaji&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20%C2%B7%20Universitas%20Brawijaya&descAlignY=58&descSize=16" width="100%" alt="header" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-SysAdmin-E95420?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-MikroTik%20%7C%20Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-</p>
+<a href="https://github.com/marquisccel">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=Calon+Software+Engineer+%F0%9F%9A%80;Tech+%2B+Business+Mindset+%F0%9F%92%BC;Membangunkan+skill+yang+lama+tertidur+%E2%9A%A1;Belajar%2C+bangun%2C+ulangi+%F0%9F%94%81" alt="typing" />
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internship%20%2F%20Entry%20Roles-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Malang%2C%20Indonesia-555?style=flat-square" />
-</p>
+<br/>
 
----
+<img src="https://img.shields.io/badge/Malang%2C%20Indonesia-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Focusing-F59E0B?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=marquisccel&style=for-the-badge&color=7C3AED" />
 
-## About Me
+<br/>
 
-IT student at Universitas Brawijaya with hands-on experience in Linux server administration, cloud infrastructure, and container orchestration. Background in networking (Cisco CCNA) from vocational school, now focused on building toward roles in **DevOps/Cloud Engineering**, **Network Engineering**, and **Linux SysAdmin**.
+<a href="https://www.linkedin.com/in/egayurcel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:egayurcel990@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-- 🖥️ Daily driver: Linux (Ubuntu), Docker, Nginx
-- 🌐 Networking: MikroTik, Cisco, TCP/IP, VLAN, Routing, Firewall, WAN
-- ☁️ Cloud & IaC: AWS (EC2, VPC, ELB, S3, Lambda) · Terraform · Ansible
-- 📦 Containers: Docker Compose · Kubernetes (HPA, manifests, port-forward)
-- 📊 Observability: Prometheus · Grafana · k6 · JMeter
-- 🏢 Internship: PT. Telekomunikasi Indonesia — Network Support (2022)
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 Tentang Aku
 
-### OS & Server
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-Hardening-555?style=flat-square&logo=gnubash&logoColor=white)
+Mahasiswa IT di **Universitas Brawijaya** yang lagi serius menata arah: **jadi Software Engineer**.
 
-### Networking
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocol-555?style=flat-square)
-![VLAN](https://img.shields.io/badge/VLAN-Segmentation-555?style=flat-square)
-![Subnetting](https://img.shields.io/badge/Subnetting-555?style=flat-square)
-![Firewall](https://img.shields.io/badge/Routing%20%26%20Firewall-555?style=flat-square)
-![WAN](https://img.shields.io/badge/WAN-Configuration-555?style=flat-square)
+- 💻 **Fokus sekarang:** membangun fondasi software engineering yang kuat, bukan cuma bisa nulis kode, tapi paham kenapa kodenya ditulis.
+- 💼 **Ketertarikan tinggi ke bisnis:** aku suka melihat produk dari dua sisi, teknologi dan nilai bisnisnya.
+- 🌱 **Lagi membangunkan skill yang lama tertidur:** pelan-pelan aku asah lagi, dan hasilnya mulai kelihatan.
+- 🧭 **Mulai mengenali diriku sendiri:** apa yang aku suka, apa yang bikin semangat, dan ke mana aku mau melangkah.
+- 🛠️ **Bekal infra:** dari SMK dan magang aku punya dasar Linux, networking, dan cloud, jadi aku nulis software dengan paham tempat ia dijalankan.
 
-### Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![PgBouncer](https://img.shields.io/badge/PgBouncer-Connection%20Pooling-336791?style=flat-square)
-
-### Cloud & IaC
-![AWS](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazon-s3&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
-![VPC](https://img.shields.io/badge/AWS%20VPC-Networking-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![ELB](https://img.shields.io/badge/AWS%20ELB-Load%20Balancer-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![k6](https://img.shields.io/badge/k6-Load%20Testing-7D64FF?style=flat-square&logo=k6&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-Load%20Testing-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
-
-### Backend & Database
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+> *"Bukan telat, tapi baru bangun. Sekarang waktunya ngegas."* 🔥
 
 ---
 
-## 💼 Experience
+## 🚀 Proyek Pilihan
 
-**PT. Telekomunikasi Indonesia Witel Surabaya Utara** · Network Support Intern · Jun–Nov 2022
-- Managed and monitored customer network requests to support stable service operations
-- Performed remote troubleshooting and network diagnostics
-- Collaborated with technical teams to ensure service quality and issue resolution
+<div align="center">
 
----
+<a href="https://github.com/marquisccel/banking-peak-load-prototype"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquisccel&repo=banking-peak-load-prototype&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/marquisccel/bagan-taekwondo"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquisccel&repo=bagan-taekwondo&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/marquisccel/aws-multi-service-deployment"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquisccel&repo=aws-multi-service-deployment&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/marquisccel/ascon-secure-gateway"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquisccel&repo=ascon-secure-gateway&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/marquisccel/projectadsis"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquisccel&repo=projectadsis&theme=tokyonight&hide_border=true&border_radius=12" /></a>
 
-## 🏅 Certifications
+</div>
 
-- Cisco CCNAv7: Introduction to Networks
-- Cisco CCNAv7: Switching, Routing, and Wireless Essentials
-- Cisco CCNAv7: Enterprise Networking, Security, and Automation
-- Cisco Extra CyberOps Associate
-- Computer & Network Engineering Certification: WAN, Server, and VoIP Infrastructure
-- Industry Competency Examination — Computer and Network Engineering with Cyber Security Expertise
+> ⚡ **banking-peak-load-prototype:** target 1M transaksi/jam, 0% error, p95 di bawah 6ms pada 300 req/s (Go, PostgreSQL, Kubernetes, Terraform, k6).
 
 ---
 
-## 📁 Featured Projects
+## 🧰 Tech Stack
 
-| Project | Description | Stack |
-|---|---|---|
-| [banking-peak-load-prototype](https://github.com/marquisccel/banking-peak-load-prototype) | Defense-in-depth banking system handling 1M tx/hour — 0% error rate, p95 latency <6ms at 300 req/s | Go · PostgreSQL · PgBouncer · Redis · RabbitMQ · Docker · Kubernetes · Terraform · Ansible · Prometheus · Grafana · k6 |
-| [aws-multi-service-deployment](https://github.com/marquisccel/aws-multi-service-deployment) | Multi-service AWS infrastructure with IaC — VPC, subnets, ELB, security groups | Terraform · EC2 · VPC · ELB · S3 · Lambda |
-| [ascon-secure-gateway](https://github.com/marquisccel/ascon-secure-gateway) | Docker-based web server with ASCON-128 lightweight encryption | Python · Docker · Nginx |
-| [projectadsis](https://github.com/marquisccel/projectadsis) | Two isolated Laravel services orchestrated via Docker Compose on Linux | Docker Compose · Laravel · MySQL · Nginx |
+<div align="center">
 
----
+**Backend & Web**
 
-## 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=go,nodejs,php,laravel,ts,js,python,java,kotlin&perline=9" alt="languages" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=marquisccel&theme=tokyonight&hide_border=true" height="165" />
-</p>
+**Database & Messaging**
 
----
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&perline=4" alt="data" />
 
-## 🌱 Currently Deepening
+**Cloud, DevOps & Monitoring**
 
-![AWS](https://img.shields.io/badge/AWS-Advanced%20Networking-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-Advanced%20Playbooks-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Production%20Patterns-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Server%20Hardening-E95420?style=flat-square&logo=linux&logoColor=white)
-![Observability](https://img.shields.io/badge/Observability-SLO%20%26%20Alerting-F46800?style=flat-square&logo=grafana&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,githubactions,nginx,linux,prometheus,grafana&perline=10" alt="devops" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Building infra one container at a time · Open to networking, collaboration, and opportunities in DevOps / Cloud / Network Engineering</i>
-</p>
+## 🌱 Lagi Didalami
+
+- 🏗️ Software engineering: arsitektur, testing, dan clean code
+- 💡 Cara produk teknologi menghasilkan nilai bisnis
+- ☁️ AWS networking lanjutan dan Kubernetes production patterns
+- 📈 Observability (SLO dan alerting)
+
+---
+
+## 💼 Pengalaman & Sertifikasi
+
+- **Network Support Intern**, PT Telekomunikasi Indonesia Witel Surabaya Utara (Jun–Nov 2022)
+- Cisco **CCNAv7** dan **CyberOps Associate**
+- Sertifikasi Computer & Network Engineering (WAN, Server, VoIP)
+
+---
+
+## 📊 Statistik GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=marquisccel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://streak-stats.demolab.com?user=marquisccel&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquisccel&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marquisccel&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Ular Kontribusi
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marquisccel/marquisccel/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marquisccel/marquisccel/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/marquisccel/marquisccel/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🏆 Trofi
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=marquisccel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+## 🤝 Ayo Ngobrol
+
+Suka bahas software, bisnis, atau proses bangkit dari "mode tidur"? Terbuka untuk kolaborasi dan peluang magang/kerja. Sapa aja! ☕
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:7C3AED&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
