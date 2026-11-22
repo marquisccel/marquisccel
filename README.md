@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/marquisccel/marquisccel/main/assets/banner.svg" width="100%" alt="Ega Yurcel Satriaji" />
+<img src="https://raw.githubusercontent.com/marquisccel/marquisccel/main/assets/banner-pixel.svg" width="100%" alt="Ega Yurcel Satriaji" />
 
 <a href="https://github.com/marquisccel">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Software+Engineer+(in+progress);Technology+%2B+Business;Building+skills+that+were+dormant" alt="typing" />
@@ -93,6 +93,6 @@ Mahasiswa Information Technology di **Universitas Brawijaya** dengan target menj
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/marquisccel/marquisccel/main/assets/banner-coding.svg" width="100%" alt="coding" />
 
 </div>
