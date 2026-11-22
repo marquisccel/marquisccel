@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-pixel.svg" width="100%" alt="Ega Yurcel Satriaji, Software Engineer. Pixel art of a cabin on a ridge above Malang at blue hour, one window warm and one lit by a screen." />
+<img src="./assets/banner-pixel.svg" width="100%" alt="Ega Yurcel Satriaji, Software Engineer. Pixel art of a desk at night: two monitors, a rain-streaked window and a warm desk lamp." />
 
 <br/>
 
@@ -83,6 +83,6 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/egayurcel) or by [email](mail
 
 <div align="center">
 
-<img src="./assets/banner-coding.svg" width="100%" alt="Looping pixel animation of a git commit graph with a feature branch and a hotfix branch merging into main." />
+<img src="./assets/banner-coding.svg" width="100%" alt="Looping pixel terminal printing a build, one line at a time." />
 
 </div>
