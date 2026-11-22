@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/marquisccel/marquisccel/main/assets/banner-pixel.svg" width="100%" alt="Ega Yurcel Satriaji" />
+<img src="./assets/banner-pixel.svg" width="100%" alt="Ega Yurcel Satriaji - aspiring Software Engineer. Animated pixel art: blue hour over the mountains, a sea of clouds, and a lit tent on the ridge." />
 
 <a href="https://github.com/marquisccel">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Software+Engineer+(in+progress);Technology+%2B+Business;Building+skills+that+were+dormant" alt="typing" />
@@ -93,6 +93,6 @@ Mahasiswa Information Technology di **Universitas Brawijaya** dengan target menj
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/marquisccel/marquisccel/main/assets/banner-coding.svg" width="100%" alt="coding" />
+<img src="./assets/banner-coding.svg" width="100%" alt="A looping pixel animation: a climber walks a ridge past code, build, test and ship." />
 
 </div>
