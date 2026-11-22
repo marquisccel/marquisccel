@@ -55,15 +55,6 @@ Mahasiswa Information Technology di **Universitas Brawijaya** dengan target menj
 
 ---
 
-## Sedang Didalami
-
-- Software engineering: arsitektur, testing, dan clean code
-- Cara produk teknologi menghasilkan nilai bisnis
-- AWS networking lanjutan dan Kubernetes production patterns
-- Observability (SLO dan alerting)
-
----
-
 ## Certifications
 
 - Cisco CCNAv7: Introduction to Networks
@@ -98,10 +89,6 @@ Mahasiswa Information Technology di **Universitas Brawijaya** dengan target menj
 </div>
 
 ---
-
-## Kontak
-
-Terbuka untuk diskusi, kolaborasi, dan peluang magang maupun kerja di bidang software engineering.
 
 <div align="center">
 
