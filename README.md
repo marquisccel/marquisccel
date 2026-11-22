@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:F59E0B&height=200&section=header&text=Ega%20Yurcel%20Satriaji&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20%C2%B7%20Universitas%20Brawijaya&descAlignY=58&descSize=16" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:4F46E5&height=200&section=header&text=Ega%20Yurcel%20Satriaji&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20%C2%B7%20Universitas%20Brawijaya&descAlignY=58&descSize=16" width="100%" alt="header" />
 
 <a href="https://github.com/marquisccel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=Calon+Software+Engineer+%F0%9F%9A%80;Tech+%2B+Business+Mindset+%F0%9F%92%BC;Membangunkan+skill+yang+lama+tertidur+%E2%9A%A1;Belajar%2C+bangun%2C+ulangi+%F0%9F%94%81" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=Software+Engineer+(in+progress);Technology+%2B+Business;Building+skills+that+were+dormant" alt="typing" />
 </a>
 
 <br/>
@@ -21,21 +21,21 @@
 
 ---
 
-## 👋 Tentang Aku
+## Tentang Saya
 
-Mahasiswa IT di **Universitas Brawijaya** yang lagi serius menata arah: **jadi Software Engineer**.
+Mahasiswa Information Technology di **Universitas Brawijaya** dengan target menjadi **Software Engineer**.
 
-- 💻 **Fokus sekarang:** membangun fondasi software engineering yang kuat, bukan cuma bisa nulis kode, tapi paham kenapa kodenya ditulis.
-- 💼 **Ketertarikan tinggi ke bisnis:** aku suka melihat produk dari dua sisi, teknologi dan nilai bisnisnya.
-- 🌱 **Lagi membangunkan skill yang lama tertidur:** pelan-pelan aku asah lagi, dan hasilnya mulai kelihatan.
-- 🧭 **Mulai mengenali diriku sendiri:** apa yang aku suka, apa yang bikin semangat, dan ke mana aku mau melangkah.
-- 🛠️ **Bekal infra:** dari SMK dan magang aku punya dasar Linux, networking, dan cloud, jadi aku nulis software dengan paham tempat ia dijalankan.
+- **Fokus sekarang:** membangun fondasi software engineering yang kuat: memahami alasan di balik setiap kode, bukan sekadar menulisnya.
+- **Ketertarikan tinggi ke bisnis:** saya suka melihat produk dari dua sisi, teknologi dan nilai bisnisnya.
+- **Membangunkan kembali skill yang lama tertidur:** pelan-pelan saya asah lagi, dan hasilnya mulai kelihatan.
+- **Mengenali diri sendiri:** apa yang saya suka, apa yang bikin semangat, dan ke mana aku mau melangkah.
+- **Bekal infra:** dari SMK dan magang saya punya dasar Linux, networking, dan cloud, sehingga saya menulis software dengan memahami tempat ia dijalankan.
 
-> *"Bukan telat, tapi baru bangun. Sekarang waktunya ngegas."* 🔥
+> *Bukan telat, tapi baru bangun. Sekarang waktunya bergerak.*
 
 ---
 
-## 🚀 Proyek Pilihan
+## Proyek Pilihan
 
 <div align="center">
 
@@ -47,11 +47,11 @@ Mahasiswa IT di **Universitas Brawijaya** yang lagi serius menata arah: **jadi S
 
 </div>
 
-> ⚡ **banking-peak-load-prototype:** target 1M transaksi/jam, 0% error, p95 di bawah 6ms pada 300 req/s (Go, PostgreSQL, Kubernetes, Terraform, k6).
+> **banking-peak-load-prototype:** target 1M transaksi/jam, 0% error, p95 di bawah 6ms pada 300 req/s (Go, PostgreSQL, Kubernetes, Terraform, k6).
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -71,39 +71,27 @@ Mahasiswa IT di **Universitas Brawijaya** yang lagi serius menata arah: **jadi S
 
 ---
 
-## 🌱 Lagi Didalami
+## Sedang Didalami
 
-- 🏗️ Software engineering: arsitektur, testing, dan clean code
-- 💡 Cara produk teknologi menghasilkan nilai bisnis
-- ☁️ AWS networking lanjutan dan Kubernetes production patterns
-- 📈 Observability (SLO dan alerting)
-
----
-
-## 💼 Pengalaman & Sertifikasi
-
-- **Network Support Intern**, PT Telekomunikasi Indonesia Witel Surabaya Utara (Jun–Nov 2022)
-- Cisco **CCNAv7** dan **CyberOps Associate**
-- Sertifikasi Computer & Network Engineering (WAN, Server, VoIP)
+- Software engineering: arsitektur, testing, dan clean code
+- Cara produk teknologi menghasilkan nilai bisnis
+- AWS networking lanjutan dan Kubernetes production patterns
+- Observability (SLO dan alerting)
 
 ---
 
-## 📊 Statistik GitHub
+## Certifications
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marquisccel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-<img height="170" src="https://streak-stats.demolab.com?user=marquisccel&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquisccel&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marquisccel&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
+- Cisco CCNAv7: Introduction to Networks
+- Cisco CCNAv7: Switching, Routing, and Wireless Essentials
+- Cisco CCNAv7: Enterprise Networking, Security, and Automation
+- Cisco Extra CyberOps Associate
+- Computer & Network Engineering Certification: WAN, Server, and VoIP Infrastructure
+- Industry Competency Examination: Computer and Network Engineering with Cyber Security Expertise
 
 ---
 
-## 🐍 Ular Kontribusi
+## Aktivitas Kontribusi
 
 <div align="center">
 
@@ -117,22 +105,12 @@ Mahasiswa IT di **Universitas Brawijaya** yang lagi serius menata arah: **jadi S
 
 ---
 
-## 🏆 Trofi
+## Kontak
+
+Terbuka untuk diskusi, kolaborasi, dan peluang magang maupun kerja di bidang software engineering.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=marquisccel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
----
-
-## 🤝 Ayo Ngobrol
-
-Suka bahas software, bisnis, atau proses bangkit dari "mode tidur"? Terbuka untuk kolaborasi dan peluang magang/kerja. Sapa aja! ☕
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:7C3AED&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:1E1B4B&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
