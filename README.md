@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:4F46E5&height=200&section=header&text=Ega%20Yurcel%20Satriaji&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20%C2%B7%20Universitas%20Brawijaya&descAlignY=58&descSize=16" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Ega%20Yurcel%20Satriaji&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20%C2%B7%20Universitas%20Brawijaya&descAlignY=58&descSize=16" width="100%" alt="header" />
 
 <a href="https://github.com/marquisccel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=Software+Engineer+(in+progress);Technology+%2B+Business;Building+skills+that+were+dormant" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Software+Engineer+(in+progress);Technology+%2B+Business;Building+skills+that+were+dormant" alt="typing" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Malang%2C%20Indonesia-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Focusing-F59E0B?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=marquisccel&style=for-the-badge&color=7C3AED" />
+<img src="https://img.shields.io/badge/Malang%2C%20Indonesia-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Focusing-1D4ED8?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=marquisccel&style=for-the-badge&color=2563EB" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/egayurcel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:egayurcel990@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:egayurcel990@gmail.com"><img src="https://img.shields.io/badge/Email-1E40AF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -32,22 +32,6 @@ Mahasiswa Information Technology di **Universitas Brawijaya** dengan target menj
 - **Bekal infra:** dari SMK dan magang saya punya dasar Linux, networking, dan cloud, sehingga saya menulis software dengan memahami tempat ia dijalankan.
 
 > *Bukan telat, tapi baru bangun. Sekarang waktunya bergerak.*
-
----
-
-## Proyek Pilihan
-
-<div align="center">
-
-<a href="https://github.com/marquisccel/banking-peak-load-prototype"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquisccel&repo=banking-peak-load-prototype&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/marquisccel/bagan-taekwondo"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquisccel&repo=bagan-taekwondo&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/marquisccel/aws-multi-service-deployment"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquisccel&repo=aws-multi-service-deployment&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/marquisccel/ascon-secure-gateway"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquisccel&repo=ascon-secure-gateway&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/marquisccel/projectadsis"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=marquisccel&repo=projectadsis&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-
-</div>
-
-> **banking-peak-load-prototype:** target 1M transaksi/jam, 0% error, p95 di bawah 6ms pada 300 req/s (Go, PostgreSQL, Kubernetes, Terraform, k6).
 
 ---
 
@@ -91,6 +75,16 @@ Mahasiswa Information Technology di **Universitas Brawijaya** dengan target menj
 
 ---
 
+## Aktivitas GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marquisccel&bg_color=0D1117&color=60A5FA&line=2563EB&point=93C5FD&area=true&area_color=2563EB&hide_border=true" width="100%" />
+
+</div>
+
+---
+
 ## Aktivitas Kontribusi
 
 <div align="center">
@@ -111,6 +105,6 @@ Terbuka untuk diskusi, kolaborasi, dan peluang magang maupun kerja di bidang sof
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:1E1B4B&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
