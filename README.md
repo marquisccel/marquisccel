@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Ega%20Yurcel%20Satriaji&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20%C2%B7%20Universitas%20Brawijaya&descAlignY=58&descSize=16" width="100%" alt="header" />
+<img src="https://raw.githubusercontent.com/marquisccel/marquisccel/main/assets/banner.svg" width="100%" alt="Ega Yurcel Satriaji" />
 
 <a href="https://github.com/marquisccel">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Software+Engineer+(in+progress);Technology+%2B+Business;Building+skills+that+were+dormant" alt="typing" />
@@ -15,7 +15,8 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/egayurcel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:egayurcel990@gmail.com"><img src="https://img.shields.io/badge/Email-1E40AF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:egayurcel990@gmail.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/yurccel"><img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
