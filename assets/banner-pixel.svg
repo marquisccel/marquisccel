@@ -76,11 +76,11 @@
 <g clip-path="url(#c3)"><text x="68" y="216" textLength="64" lengthAdjust="spacing" font-family="Consolas, 'Liberation Mono', monospace" font-size="13" fill="#DCE8F5">ls focus/</text></g>
 <rect class="k3" x="68" y="205" width="7" height="14" fill="#8FD2F4"/>
 
-<g class="o3" font-family="Consolas, 'Liberation Mono', monospace" font-size="15">
-<text x="48" y="244" fill="#5FB0E0">backend/</text>
-<text x="168" y="244" fill="#5FB0E0">cloud/</text>
-<text x="264" y="244" fill="#5FB0E0">devops/</text>
-<text x="376" y="244" fill="#5FB0E0">systems/</text>
+<g class="o3" font-family="Consolas, 'Liberation Mono', monospace" font-size="15" fill="#6FC3A0">
+<text x="48" y="244">backend/</text>
+<text x="168" y="244">cloud/</text>
+<text x="264" y="244">devops/</text>
+<text x="376" y="244">systems/</text>
 </g>
 
 <text class="o4" x="48" y="274" font-family="Consolas, 'Liberation Mono', monospace" font-size="13" fill="#5FB0E0">$<tspan class="cur" fill="#8FD2F4"> _</tspan></text>

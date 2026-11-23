@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="./assets/about.svg" width="100%" alt="Software Engineer. Tech plus business mindset. Backend, cloud and DevOps. Turning IT into business value." />
+<img src="./assets/about.svg" width="100%" alt="Turning IT into business value." />
 
 Information Technology undergraduate at **Universitas Brawijaya**, working toward software engineering with a grounding in Linux, networking and cloud.
 
