@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-pixel.svg" width="100%" alt="Ega Yurcel Satriaji, Software Engineer. Pixel art of a room at night: a rain-streaked window lighting a desk, someone working at a laptop, and a cat asleep on the rug." />
+<img src="./assets/banner-pixel.svg" width="100%" alt="Ega Yurcel Satriaji, Software Engineer. Pixel art of a room at night: a rain-streaked window above a desk with two monitors, someone working at them, a steaming cup of coffee and a cat asleep on the rug." />
 
 <br/>
 
