@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-labelledby="t d">
+<title id="t">About</title>
+<desc id="d">Information Technology undergraduate at Universitas Brawijaya. Building toward software engineering, grounded in Linux, networking and cloud. Interested in how good systems create real business value.</desc>
+<style>
+.a1{transform:translateX(248px) scaleX(0);animation:a1 15s steps(61,end) infinite}
+@keyframes a1{0%,2%{transform:translateX(248px) scaleX(0)}
+22%,95%{transform:translateX(248px) scaleX(1)}
+97%,100%{transform:translateX(248px) scaleX(0)}}
+.a2{transform:translateX(182px) scaleX(0);animation:a2 15s steps(77,end) infinite}
+@keyframes a2{0%,26%{transform:translateX(182px) scaleX(0)}
+50%,95%{transform:translateX(182px) scaleX(1)}
+97%,100%{transform:translateX(182px) scaleX(0)}}
+.a3{transform:translateX(265px) scaleX(0);animation:a3 15s steps(57,end) infinite}
+@keyframes a3{0%,54%{transform:translateX(265px) scaleX(0)}
+72%,95%{transform:translateX(265px) scaleX(1)}
+97%,100%{transform:translateX(265px) scaleX(0)}}
+.cur{opacity:0;animation:cur 15s steps(1,end) infinite}
+@keyframes cur{0%,72%{opacity:0}
+73%,74%{opacity:1}75%,76%{opacity:0}77%,78%{opacity:1}79%,80%{opacity:0}
+81%,82%{opacity:1}83%,84%{opacity:0}85%,86%{opacity:1}87%,88%{opacity:0}
+89%,90%{opacity:1}91%,95%{opacity:0}100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){
+.a1{animation:none;transform:translateX(248px) scaleX(1)}
+.a2{animation:none;transform:translateX(182px) scaleX(1)}
+.a3{animation:none;transform:translateX(265px) scaleX(1)}
+.cur{animation:none;opacity:0}}
+</style>
+<defs>
+<clipPath id="fr"><rect width="1000" height="170" rx="8"/></clipPath>
+<clipPath id="l1"><rect class="a1" x="0" y="36" width="503" height="26"/></clipPath>
+<clipPath id="l2"><rect class="a2" x="0" y="78" width="635" height="26"/></clipPath>
+<clipPath id="l3"><rect class="a3" x="0" y="120" width="470" height="26"/></clipPath>
+</defs>
+<g clip-path="url(#fr)">
+<rect width="1000" height="170" fill="#0B1620"/>
+<g clip-path="url(#l1)"><text x="500" y="56" text-anchor="middle" textLength="503" lengthAdjust="spacing" font-family="Consolas, 'Liberation Mono', monospace" font-size="15" fill="#DCE8F5">Information Technology undergraduate at Universitas Brawijaya</text></g>
+<g clip-path="url(#l2)"><text x="500" y="98" text-anchor="middle" textLength="635" lengthAdjust="spacing" font-family="Consolas, 'Liberation Mono', monospace" font-size="15" fill="#9BB4C8">Building toward software engineering, grounded in Linux, networking and cloud</text></g>
+<g clip-path="url(#l3)"><text x="500" y="140" text-anchor="middle" textLength="470" lengthAdjust="spacing" font-family="Consolas, 'Liberation Mono', monospace" font-size="15" fill="#6FC3A0">Interested in how good systems create real business value</text></g>
+<rect class="cur" x="740" y="129" width="8" height="15" fill="#6FC3A0"/>
+<rect x="0.5" y="0.5" width="999" height="169" rx="8" fill="none" stroke="#17293A"/>
+</g>
+</svg>
