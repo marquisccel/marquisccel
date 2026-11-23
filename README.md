@@ -2,17 +2,13 @@
 
 <img src="./assets/banner-pixel.svg" width="100%" alt="Terminal window: whoami returns Ega Yurcel Satriaji, cat role.txt returns Software Engineer, and ls focus/ lists backend, cloud, devops and systems" />
 
+</br></br>
+
 </div>
-
----
-
-## About
 
 <div align="center">
 
 <img src="./assets/about.svg" width="100%" alt="Turning IT into business value." />
-
-Information Technology undergraduate at **Universitas Brawijaya**, working toward software engineering with a grounding in Linux, networking and cloud.
 
 </div>
 
@@ -65,11 +61,6 @@ Information Technology undergraduate at **Universitas Brawijaya**, working towar
 
 ---
 
-## Contact
-
-Open to internships, graduate roles and collaboration in software engineering.
-Reach me on [LinkedIn](https://www.linkedin.com/in/egayurcel) or by [email](mailto:egayurcel990@gmail.com).
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Malang%2C%20Indonesia-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Malang, Indonesia" />
@@ -81,7 +72,7 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/egayurcel) or by [email](mail
 <a href="mailto:egayurcel990@gmail.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.instagram.com/yurccel"><img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-<br/><br/>
+---
 
 <img src="./assets/banner-coding.svg" width="100%" alt="Looping pixel terminal running git add, commit and push." />
 
