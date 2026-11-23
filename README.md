@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-pixel.svg" width="100%" alt="Ega Yurcel Satriaji - Software Engineer, Malang, Indonesia" />
+<img src="./assets/banner-pixel.svg" width="100%" alt="Terminal window: whoami returns Ega Yurcel Satriaji, role Software Engineer, Malang, Indonesia" />
 
 <br/>
 
