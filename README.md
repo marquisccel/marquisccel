@@ -1,18 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-pixel.svg" width="100%" alt="Terminal window: whoami returns Ega Yurcel Satriaji, role Software Engineer, Malang, Indonesia" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Malang%2C%20Indonesia-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Malang, Indonesia" />
-<img src="https://img.shields.io/badge/Open%20to%20work-1D4ED8?style=for-the-badge" alt="Open to work" />
-<img src="https://komarev.com/ghpvc/?username=marquisccel&style=for-the-badge&color=2563EB" alt="Profile views" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/egayurcel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:egayurcel990@gmail.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.instagram.com/yurccel"><img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<img src="./assets/banner-pixel.svg" width="100%" alt="Terminal window: whoami returns Ega Yurcel Satriaji, then cat role.txt returns Software Engineer" />
 
 </div>
 
@@ -82,6 +70,17 @@ Open to internships, graduate roles and collaboration in software engineering.
 Reach me on [LinkedIn](https://www.linkedin.com/in/egayurcel) or by [email](mailto:egayurcel990@gmail.com).
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/Malang%2C%20Indonesia-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Malang, Indonesia" />
+<img src="https://komarev.com/ghpvc/?username=marquisccel&style=for-the-badge&color=2563EB" alt="Profile views" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/egayurcel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:egayurcel990@gmail.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.instagram.com/yurccel"><img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<br/><br/>
 
 <img src="./assets/banner-coding.svg" width="100%" alt="Looping pixel terminal running git add, commit and push." />
 
