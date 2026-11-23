@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-pixel.svg" width="100%" alt="Ega Yurcel Satriaji, Software Engineer. Pixel art of a room at night: rain running down a tall window that lights a desk with two monitors, a steaming cup of coffee, and someone working in the chair seen from behind." />
+<img src="./assets/banner-pixel.svg" width="100%" alt="Ega Yurcel Satriaji - Software Engineer, Malang, Indonesia" />
 
 <br/>
 
