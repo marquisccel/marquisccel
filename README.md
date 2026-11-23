@@ -10,7 +10,9 @@
 
 <div align="center">
 
-<img src="./assets/about.svg" width="100%" alt="Information Technology undergraduate at Universitas Brawijaya. Building toward software engineering, grounded in Linux, networking and cloud. Interested in how good systems create real business value." />
+<img src="./assets/about.svg" width="100%" alt="Software Engineer. Tech plus business mindset. Backend, cloud and DevOps. Turning IT into business value." />
+
+Information Technology undergraduate at **Universitas Brawijaya**, working toward software engineering with a grounding in Linux, networking and cloud.
 
 </div>
 
